@@ -27,7 +27,7 @@ This application follows a strict **Separation of Concerns** using three distinc
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Teniola876/SEN-201.git](https://github.com/Teniola876/SEN-201.git)
+    git clone https://github.com/agboluajemojeed2006-art/SEN-201-2.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -43,8 +43,9 @@ This application follows a strict **Separation of Concerns** using three distinc
 ---
 
 ## 👤 Author
-**Awodire Teniola**
-* **Course:** SEN 201 (Software Engineering)
+* AGBOLUAJE MOJEED **
+* **Course:** SEN 201 CYBER SECURITY
 * **Institution:** Caleb University
-* **GitHub:** [@Teniola876](https://github.com/Teniola876)
+* **GitHub:** https://github.com/agboluajemojeed2006-art
 *
+
